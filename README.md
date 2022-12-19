@@ -19,6 +19,10 @@ N/A
 
 Please refer to the LICENSE in the repo.
 
+## Screenshot
+
+![screenshot](images/screenshot.png)
+
 ## Link
 
 https://ngwingyan.github.io/Console-Finances/
